@@ -2,7 +2,7 @@
 
 This is an interactive periodic table application. In it you can click on elements to obtain detailed information about each element. It features dark and light modes and supports both English and Ukrainian languages.
 
-### [Live App](https://periodicum.pages.dev/)
+### [NEW APP](https://periodicium.com/)
 
 ## Table of contents
 
